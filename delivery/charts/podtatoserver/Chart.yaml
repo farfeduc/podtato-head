@@ -4,7 +4,7 @@ description: A Helm chart to deploy to deploy the podtato head demo application
 
 # A semantic version for the chart rather than the application. This is
 # required to follow Semantic Versioning (https://semver.org/)
-version: 0.1.0
+version: 0.1.1
 
 # This is the version number of the application (podtatoserver). You can release
 # versions of a chart independently of the application versions. This IS NOT
